@@ -1,0 +1,12 @@
+LICENSE.md
+LICENSE.txt
+README.md
+setup.py
+YOLOv7_with_depthmap/YOLOv7_with_depthmap.py
+YOLOv7_with_depthmap/__init__.py
+YOLOv7_with_depthmap/hubconf.py
+YOLOv7_with_depthmap.egg-info/PKG-INFO
+YOLOv7_with_depthmap.egg-info/SOURCES.txt
+YOLOv7_with_depthmap.egg-info/dependency_links.txt
+YOLOv7_with_depthmap.egg-info/requires.txt
+YOLOv7_with_depthmap.egg-info/top_level.txt

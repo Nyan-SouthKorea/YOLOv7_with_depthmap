@@ -1,3 +1,35 @@
+Metadata-Version: 2.1
+Name: YOLOv7_with_depthmap
+Version: 1.0.0
+Summary: inference YOLOv7 with scratch very simply and caculate depth also if depth_map is for input
+Home-page: https://github.com/Nyan-SouthKorea/YOLOv7_with_depthmap
+Author: Na-I-Eon
+Author-email: 112fkdldjs@naver.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE.md
+License-File: LICENSE.txt
+Requires-Dist: matplotlib>=3.2.2
+Requires-Dist: numpy<1.24.0,>=1.18.5
+Requires-Dist: opencv-python>=4.1.1
+Requires-Dist: Pillow>=7.1.2
+Requires-Dist: PyYAML>=5.3.1
+Requires-Dist: requests>=2.23.0
+Requires-Dist: scipy>=1.4.1
+Requires-Dist: torch!=1.12.0,>=1.7.0
+Requires-Dist: torchvision!=0.13.0,>=0.8.1
+Requires-Dist: tqdm>=4.41.0
+Requires-Dist: protobuf<4.21.3
+Requires-Dist: tensorboard>=2.4.1
+Requires-Dist: pandas>=1.1.4
+Requires-Dist: seaborn>=0.11.0
+Requires-Dist: ipython
+Requires-Dist: psutil
+Requires-Dist: thop
+
 # YOLOv8_for_ROS2
 ROS2 강의에서 YOLOv8 사물인식 파트에 대한 강의 자료
 
