@@ -130,6 +130,6 @@ https://github.com/WongKinYiu
 ## 관련 링크
 github : https://github.com/Nyan-SouthKorea/YOLOv7_with_depthmap
 
-pypi : 
+pypi : https://pypi.org/project/YOLOv7-with-depthmap/
 
 Naver Blog : https://blog.naver.com/112fkdldjs 

@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: YOLOv7_with_depthmap
-Version: 1.0.0
+Version: 1.0.1
 Summary: inference YOLOv7 with scratch very simply and caculate depth also if depth_map is for input
 Home-page: https://github.com/Nyan-SouthKorea/YOLOv7_with_depthmap
 Author: Na-I-Eon
