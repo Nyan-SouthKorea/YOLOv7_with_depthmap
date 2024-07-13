@@ -129,6 +129,9 @@ while True:
 ![alt text](https://github.com/Nyan-SouthKorea/YOLOv7_with_depthmap/blob/main/README_images/demo_video_1.gif)
 
 
+
+
+
 ## 테스트 코드(폴더 안에 있는 이미지들 인퍼런스) (더미 depth map도 생성해 봅니다)
 ```python
 from YOLOv7_with_depthmap import YOLOv7
@@ -162,7 +165,7 @@ for img_name in os.listdir(path):
     show_image(model.draw())
 ```
 
-![alt text](https://github.com/Nyan-SouthKorea/YOLOv7_with_depthmap/blob/main/README_images/demo_video_1.gif)
+![alt text](https://github.com/Nyan-SouthKorea/YOLOv7_with_depthmap/blob/main/README_images/demo_video_2.gif)
 
 
 ## 라이센스
